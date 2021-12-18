@@ -1,0 +1,17 @@
+com\Reto3\repository\crud\IClotheCrudRepository.class
+com\Reto3\controller\OrderController.class
+com\Reto3\model\User.class
+com\Reto3\repository\crud\UserCrudRepository.class
+com\Reto3\Reto3Application.class
+com\Reto3\model\Order.class
+com\Reto3\service\UserService.class
+com\Reto3\model\Clothe.class
+com\Reto3\service\ClothesService.class
+com\Reto3\repository\ClotheRepository.class
+com\Reto3\repository\OrderRepository.class
+com\Reto3\repository\UserRepository.class
+com\Reto3\repository\crud\OrderCrudRepository.class
+com\Reto3\service\OrderService.class
+com\Reto3\model\Supplement.class
+com\Reto3\controller\ClothesController.class
+com\Reto3\controller\UserController.class
